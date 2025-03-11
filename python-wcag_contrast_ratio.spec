@@ -7,7 +7,7 @@ Summary:	Library for computing contrast ratios, as required by WCAG 2.0
 Summary(pl.UTF-8):	Biblioteka do liczenia współczynników kontrastu zgodnie z WCAG 2.0
 Name:		python-wcag_contrast_ratio
 Version:	0.9
-Release:	2
+Release:	3
 License:	MIT
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/wcag-contrast-ratio/
